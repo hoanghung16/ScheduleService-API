@@ -1,0 +1,66 @@
+# Visual Studio / VS Code
+.vs/
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Build results
+bin/
+obj/
+dist/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.vcxproj.filters
+
+# Dependencies
+packages/
+node_modules/
+
+# NuGet
+*.nuget.props
+*.nuget.targets
+*.nupkg
+*.snupkg
+
+# dotnet
+project.lock.json
+project.fragments.lock.json
+artifacts/
+.dotnet/
+
+# Entity Framework
+*.db
+*.db-shm
+*.db-wal
+Migrations/
+
+# Environment variables
+.env
+.env.local
+appsettings.Development.json
+appsettings.*.json
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+*.sublime-workspace
+*.sublime-project
+
+# Testing
+**/.coverage
+**/coverage/
+*.trx
+
+# Logs
+logs/
+*.log
+
+# Temporary files
+*.tmp
+temp/
