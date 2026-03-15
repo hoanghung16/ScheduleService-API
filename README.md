@@ -27,7 +27,7 @@ ASP.NET Core 8 Web API cho ứng dụng đặt lịch và quản lý dịch vụ
 
 ### 1. Clone Repository
 ```bash
-git clone https://github.com/YOUR_USERNAME/ScheduleService-API.git
+git clone https://github.com/hoanghung16/ScheduleService-API.git
 cd ScheduleService-API/ScheduleService.API
 ```
 
@@ -135,5 +135,5 @@ This project is licensed under the MIT License.
 
 ## 📧 Contact
 
-- Email: your.email@example.com
-- GitHub: [@YOUR_USERNAME](https://github.com/YOUR_USERNAME)
+- Email: weew3426@gmail.com
+- GitHub: [@hoanghung16](https://github.com/hoanghung16)
